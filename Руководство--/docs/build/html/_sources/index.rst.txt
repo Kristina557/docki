@@ -1,0 +1,25 @@
+.. Pasha documentation master file, created by
+   sphinx-quickstart on Sat Nov 19 16:41:20 2022.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Добро пожаловать в
+==================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+
+
+**ConfeRent**
+==================
+
+#. `Услуги <indexTwo.html>`_
+#. `Мои объекты <indexTwo.html>`_
+#. `Броинрование <indexTwo.html>`_
+#. `Рекомендации по выбору <indexTwo.html>`_
+#. `Отзыв/комментарий <indexTwo.html>`_
+#. `Прохождение квалификации, получений рейтинга <indexTwo.html>`_
+#. `Оформление сделки <indexTwo.html>`_
+#. `Профиль <indexTwo.html>`_
